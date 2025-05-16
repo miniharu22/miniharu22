@@ -4,8 +4,8 @@
 
 <br>
   
-<a href="https://github.com/miniharu22"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miniharu22&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/miniharu22?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miniharu22&layout=compact&langs_count=8&card_width=300" /></a>
+<a href="https://github.com/miniharu22"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miniharu22&show_icons=true&theme=dark&card_width=300" /></a>
+<a href="https://github.com/miniharu22?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miniharu22&layout=compact&langs_count=8&theme=dark&card_width=300" /></a>
 
 </div>
 
